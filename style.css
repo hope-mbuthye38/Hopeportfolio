@@ -1,0 +1,48 @@
+h1{
+    color: cyan;
+    background-color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: cyan;
+}
+.card{
+
+color: darkorange;background-color: darkorange;font-family: 'Times New Roman', Times, serif;
+}
+.card-title{
+    color: olive;background-color: darkorange;font-family: 'Times New Roman', Times, serif;
+    
+}
+.card-text{
+    color: brown;background-color: chartreuse;
+}
+.card{ color: chocolate;background-color: cyan;font-family: 'Times New Roman', Times, serif;
+
+}
+.card-body{
+    color: darksalmon;background-color: ;font-family: 'Times New Roman', Times, serif;
+}
+.card-title{
+    color: darksalmon;background-color: black;font-family: 'Times New Roman', Times, serif;
+}
+.card-title{
+    color: darkviolet;background-color: ;font-family: 'Times New Roman', Times, serif;
+}
+.card{
+    color:burlywood;background-color: dimgrey;font-family: 'Times New Roman', Times, serif;
+
+}
+.card-body{
+    color: gold ;font-family: 'Times New Roman', Times, serif;
+}
+.card-title{
+    color: lavenderblush;background-color: lightcoral;font-family: 'Times New Roman', Times, serif;
+}
+.card-text{
+color: lightcoral;background-color: lightgreen;font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
